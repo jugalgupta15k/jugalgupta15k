@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on projects related to data science
-- 🤔 I’m looking for help with ...
+🌱 I’m currently learning Python
+👯 I’m looking to collaborate on projects related to data science
+🤔 I’m looking for help with career guidance
 - 💬 Ask me about ...
-- 📫 How to reach me: jugalgupta15k@gmail.com
-- 😄 Pronouns: He/Him
+📫 How to reach me: jugalgupta15k@gmail.com
+😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
